@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E2457762-B801-7C96-47C7-FD77BBD9A9F1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pads.cs">
+    <Files>
+      <File FileName="Assets/PadCode.cs" Line="7" Column="31" />
+      <File FileName="../../../Udemy Mobile/Dungeon Escape/Assets/Scripts/Player.cs" Line="76" Column="21" />
+      <File FileName="Assets/Pads.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d34c5b51-2744-4468-91ac-16b39585022b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
